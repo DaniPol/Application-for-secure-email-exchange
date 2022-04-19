@@ -26,6 +26,7 @@ The preparation stage of the process is crucial for the scheme, Asymmetric algor
 
 
 Run Example:
+![image](https://user-images.githubusercontent.com/73639212/163991274-21cb7ab3-49cd-449b-b6d1-9f67ea4a4658.png)
 
  
 
